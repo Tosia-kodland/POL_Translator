@@ -2,7 +2,7 @@ import random
 import time
 
 
-eng_words = [„Cześć”, „Pa”, „Zadanie”, „Program”]
+eng_words = ["Cześć", "Pa", "Zadanie", "Program"]
 fr_words = ['Salut','Au revoir','Tâche', 'Programme']
 score = 0
 
